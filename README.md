@@ -1,3 +1,4 @@
+bike_store.jpg
 # Análise de dados de um varejo de bicicleta no SQL
 
 ## Sobre o projeto:
