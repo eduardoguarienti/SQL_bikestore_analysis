@@ -1,5 +1,6 @@
-bike_store.jpg
-# Análise de dados de um varejo de bicicleta no SQL
+![bike_store](https://github.com/user-attachments/assets/7d572ad6-842c-40be-b93d-890182d49c2d)
+
+#Análise de dados de um varejo de bicicleta no SQL
 
 ## Sobre o projeto:
 Procurei entender algumas métricas de negócio das diferentes lojas, como lucros e custos e quais são as determinantes da rentabilidade do modelo de negócio. Para isso, utilizei o SQL, em que tive que 
@@ -7,7 +8,7 @@ Procurei entender algumas métricas de negócio das diferentes lojas, como lucro
 - utilizei CTEs para mesclar duas diferentes tabelas para conjugar diferentes informações, como categoria do produto vendido, bem como sua quantidade e preço;
 - finalmente, fiz uma análise geral de receitas, quantidades vendidas e lucros, além de tentar perceber quais lojas são as mais rentáveis e qual época do ano se vende mais bicicletas.
 
-\\analise no medium\\
+- Análise completa: https://medium.com/@eduardoguarienti/an%C3%A1lise-de-um-varejo-de-bicicletas-no-sql-75885c4de940
 
 ## Sobre os dados:
 Utilizei um conjunto de dados disponível no Kaggle sobre bases de dados relacionais:
