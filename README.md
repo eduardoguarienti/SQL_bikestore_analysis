@@ -1,6 +1,6 @@
-![bike_store](https://github.com/user-attachments/assets/7d572ad6-842c-40be-b93d-890182d49c2d)
+![bike_store](https://github.com/user-attachments/assets/d679b039-bc0d-4119-bf0d-a09f897a7107)
 
-#Análise de dados de um varejo de bicicleta no SQL
+# Análise de dados de um varejo de bicicleta no SQL
 
 ## Sobre o projeto:
 Procurei entender algumas métricas de negócio das diferentes lojas, como lucros e custos e quais são as determinantes da rentabilidade do modelo de negócio. Para isso, utilizei o SQL, em que tive que 
